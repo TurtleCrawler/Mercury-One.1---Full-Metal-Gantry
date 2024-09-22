@@ -75,6 +75,7 @@ ___
 | **M5x0.1 Shim                  | 10       |
 
 *Included in defauly Mercury One.1 BOM
+
 **Optional parts
 
 ## 9mm Full Metal Gantry Hardware BOM
@@ -107,4 +108,5 @@ ___
 | **x0.1 Shim                    | 10       |
 
 *Included in defauly Mercury One.1 BOM
+
 **Optional parts
