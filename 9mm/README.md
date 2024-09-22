@@ -68,7 +68,7 @@ ___
 | M5x1 Shim                      | 30       |
 | M5x0.5 Shim                    | 10       |
 | M5x0.3 Shim                    | 10       |
-| **x0.1 Shim                    | 10       |
+| **M5x0.1 Shim                  | 10       |
 
 ### DXF Laser Cut Plates BOM
 
