@@ -3,7 +3,7 @@
 ___
 
 Stepper Flange Stack assembly:
-5x1mm shims as shown in the image below, using F695 and 695 bearings.
+5x1mm shims as shown in the image below.
 
 M3 washers might be needed with the stepper screws to prevent them from bottoming out in the threads.
 
@@ -25,7 +25,7 @@ ___
 
 ## 6mm Front Towers
 
-For the flange stack use 2x M5x1 shims and 1x M5x0.5 shim. You can tighten up the fit with M5x0.1mm shims.
+For the flange stack use 2x M5x0.5 shims and 1x M5x1 shim. You can tighten up the fit with M5x0.1mm shims.
 
 The M5 bolt needs a M5x3(Imperial) or M5x4(Metric) spacer under the bolt head, shims or washers can also be used in place of a single spacer.
 
