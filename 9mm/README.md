@@ -46,6 +46,7 @@ ___
 |--------------------------------|----------|
 | M3x30 standoffs                | 16       |
 | M3x40 standoffs                | 6        |
+| M3x5x10 spacers                | 8        |
 | M5x40 Spacers                  | 4        |
 | M5x3 Spacers (Imperial)        | 2        |
 | M5x4 Spacers (Metric)          | 2        |
