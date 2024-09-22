@@ -15,11 +15,9 @@ ___
 
 ## 6mm Xjoints
 
-**NOTE:** Make Sure you remove the hub on the pulley, it will interfer with the belt. You will also need to grind the set screws down, or source shorter ones. The set screws are M4 thread.
+For the flange stack use 2x M5x0.5 shims and 1x M5x1 shim. You can tighten up the fit with M5x0.1mm shims.
 
-For the flange stack use 2x M5x1 shims and 1x M5x0.5 shim on the side against the plate, and a single M5x1 shim on the side with the printed spacer. You can tighten up the fit with M5x0.1mm shims.
-
-With the live Idler setup if using a gates pulley, a M5x0.3mm shim is needed between the pulley and bearing. You can use smaller shims to tighten up the play between the printed spacer and bearing.
+For Gates 20T Idlers use M5x0.3mm shims on either side of the idler. You can tighten up the fit with M5x0.1mm shims.
 
 <img src="Images/6mm_Metal_Xjoints_Flange_Stack.png" alt="Xjoint Bearing Stacks" height="400">
 
@@ -27,7 +25,7 @@ ___
 
 ## 6mm Front Towers
 
-For the flange stack use 2x M5x1 shims and 1x M5x0.5 shim on the side against the plate, and a single M5x1 shim on the side with the printed spacer. You can tighten up the fit with M5x0.1mm shims.
+For the flange stack use 2x M5x1 shims and 1x M5x0.5 shim. You can tighten up the fit with M5x0.1mm shims.
 
 The M5 bolt needs a M5x3(Imperial) or M5x4(Metric) spacer under the bolt head, shims or washers can also be used in place of a single spacer.
 
