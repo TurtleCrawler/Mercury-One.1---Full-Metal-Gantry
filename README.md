@@ -25,15 +25,45 @@ ___
 - 9mm Xjoints are designed for a live idler setup, which will require modifying a 20t pulley by removing the hub.
 - Youtube Video on pulling the Hub <https://youtu.be/RKpxDKYOJYs?si=vfwZNFjSuAocWLpN>
 
+**Tools Needed:**
+
+- Drill press
+- 90 degree Countersinking bit (82 degree also works)
+- 220 grit sandpaper (For sanding dowel pins to fit into the bearings)
+- Cordless drill (Use with a spare dowel pin to ream the dowel pin holes to size as needed)
+
 ___
 
 ## 9mm Full Metal Gantry With Live Idler
 
  ![Metal Stepper Towers](Images/M1_MG_5_pro_9mm_Front_Mount_Imperial.png)
 
+___
+
 ## 6mm Full Metal Gantry
 
   ![Metal Stepper Towers](Images/Mercury_Metal_Gantry__5_pro_Top_Mount_6mm_11_Gauge.png)
+
+___
+
+## Sourcing
+
+Laser cutting services:
+
+ - Sendcutsend <https://sendcutsend.com/>
+ - Laserboost <https://www.laserboost.com/>
+
+Aluminum Spacers and Standoffs:
+
+ - D5xM3 Length 10mm <https://www.aliexpress.us/item/3256805776299657.html>
+ - M5 Length 3mm or 4mm <https://www.aliexpress.us/item/3256802832337103.html>
+ - 5mmx8mm 35/40mm Spacers <https://www.aliexpress.us/item/3256805365722139.html>
+ - M3 Threaded spacers <https://www.aliexpress.us/item/2251832625574286.html>
+ - 5x26mm Dowel Pins <https://www.aliexpress.us/item/3256803593912582.html>
+ - 5x36mm 5x26mm Dowel Pins <https://www.aliexpress.us/item/2251832864425146.html>
+
+___
+
 
 ## DXF Plate BOM
 
