@@ -50,17 +50,18 @@ ___
 
 Laser cutting services:
 
- - Sendcutsend <https://sendcutsend.com/>
- - Laserboost <https://www.laserboost.com/>
+- Sendcutsend <https://sendcutsend.com/>
+- Laserboost <https://www.laserboost.com/>
 
 Aluminum Spacers and Standoffs:
 
- - D5xM3 Length 10mm <https://www.aliexpress.us/item/3256805776299657.html>
- - M5 Length 3mm or 4mm <https://www.aliexpress.us/item/3256802832337103.html>
- - 5mmx8mm 35/40mm Spacers <https://www.aliexpress.us/item/3256805365722139.html>
- - M3 Threaded spacers <https://www.aliexpress.us/item/2251832625574286.html>
- - 5x26mm Dowel Pins <https://www.aliexpress.us/item/3256803593912582.html>
- - 5x36mm 5x26mm Dowel Pins <https://www.aliexpress.us/item/2251832864425146.html>
+- D5xM3 Length 10mm <https://www.aliexpress.us/item/3256805776299657.html>
+- M5 Length 3mm or 4mm <https://www.aliexpress.us/item/3256802832337103.html>
+- 5mmx8mm 35/40mm Spacers <https://www.aliexpress.us/item/3256805365722139.html>
+- M3 Threaded spacers <https://www.aliexpress.us/item/2251832625574286.html>
+- 5x26mm Dowel Pins <https://www.aliexpress.us/item/3256803593912582.html>
+- 5x36mm 5x26mm Dowel Pins <https://www.aliexpress.us/item/2251832864425146.html>
+- M5 shims <https://www.aliexpress.us/item/3256801130894631.html>
 
 ___
 
