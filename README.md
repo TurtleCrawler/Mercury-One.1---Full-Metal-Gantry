@@ -55,7 +55,7 @@ ___
 | M5x35 Spacers                  | 4        |
 | M5x3 Spacers (Imperial)        | 2        |
 | M5x4 Spacers (Metric)          | 2        |
-| 5x26mm Dowel Pins              | 4        |
+| 5x26mm Dowel Pins (Or 5x25)    | 4        |
 | 5x30mm Dowel Pins              | 2        |
 | 5x40mm Dowel Pins              | 4        |
 | *6mm 20t 5mm Bore GT2 Pulley   | 2        |
@@ -89,7 +89,7 @@ ___
 | M5x40 Spacers                  | 4        |
 | M5x3 Spacers (Imperial)        | 2        |
 | M5x4 Spacers (Metric)          | 2        |
-| 5x36mm Dowel Pins              | 4        |
+| 5x36mm Dowel Pins (Or 5x35)    | 4        |
 | 5x40mm Dowel Pins              | 2        |
 | 5x45mm Dowel Pins              | 4        |
 | 9mm 20t 5mm Bore GT2 Pulley    | 6        |
