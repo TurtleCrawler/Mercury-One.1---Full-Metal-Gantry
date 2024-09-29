@@ -87,7 +87,7 @@ ___
 | M5x3 Spacers (Imperial)        | 2        |
 | M5x4 Spacers (Metric)          | 2        |
 | 5x26mm Dowel Pins (Or 5x25)    | 4        |
-| 5x30mm Dowel Pins              | 2        |
+| *5x30mm Dowel Pins             | 2        |
 | 5x40mm Dowel Pins              | 4        |
 | *6mm 20t 5mm Bore GT2 Pulley   | 2        |
 | *6mm 20t 5mm Bore GT2 Idler    | 2        |
@@ -100,7 +100,7 @@ ___
 | M5x12 BHCS                     | 3        |
 | M5x25 SHCS/BHCS                | 2        |
 | M5x50 BHCS                     | 5        |
-| M3 Heatsets                    | 8        |
+| M3x4x5mm Heatsets (5mm OD)     | 14       |
 | M5x1 Shim                      | 20       |
 | M5x0.5 Shim                    | 10       |
 | M5x0.3 Shim                    | 10       |
@@ -134,7 +134,7 @@ ___
 | M5x12 BHCS                     | 3        |
 | M5x25 SHCS/BHCS                | 2        |
 | M5x55 BHCS                     | 5        |
-| M3 Heatsets                    | 8        |
+| M3x4x5mm Heatsets (5mm OD)     | 14       |
 | M5x1 Shim                      | 30       |
 | M5x0.5 Shim                    | 10       |
 | M5x0.3 Shim                    | 10       |
