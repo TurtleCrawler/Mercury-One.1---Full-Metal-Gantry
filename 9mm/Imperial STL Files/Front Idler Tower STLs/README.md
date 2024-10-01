@@ -12,16 +12,15 @@ ___
 
 ___
 
-Bearing flange stacka and Idler spacer image
+Bearing flange stacks and Idler spacer image
 
 - Flange stacks use 2x M5x1 shims and 1x M5x0.5mm shim on the plate side, and a single M5x1mm shim on the side with the printed spacer.
 
 <img src="../../Images/9mm_Front_Tower_Flange_Stack.png" alt="Front Idler Bearing Stacks" height="400">
 
-Countesink the holes marked in red. Marking them in advanced with a sharpie can help prevent countersinking the wrong holes. You only need to countersink 4 of the 6 plates.
+Countersink the holes marked in red. Marking them in advanced with a sharpie can help prevent countersinking the wrong holes. You only need to countersink 4 of the 6 plates.
 
 <img src="../../Images/Front_Idlers_Countersink_Top.png" alt="Front Idler Countersink Top Holes" height="400">
-
 
 ___
 
@@ -48,6 +47,6 @@ ___
 | M5x0.5 Shim                    | 4        |
 | **M5x0.1 Shim                  | 4        |
 
-*Included in defauly Mercury One.1 BOM
+*Included in default Mercury One.1 BOM
 
 **Optional parts

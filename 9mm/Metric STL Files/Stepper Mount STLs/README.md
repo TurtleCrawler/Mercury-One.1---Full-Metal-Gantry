@@ -2,7 +2,7 @@
 
 ## 9mm Metric Stepper Mount Files
 
-These are the files for 9mm belts using Metric 3mm (.118in)  If your plates are 1/8in thick plates (.125in or 3.175mm) then plaese use the Imperial files.
+These are the files for 9mm belts using Metric 3mm (.118in)  If your plates are 1/8in thick plates (.125in or 3.175mm) then please use the Imperial files.
 
 ## Offset Files
 
@@ -33,7 +33,7 @@ Flange stacks Use M5x1 shims, refer to the image below for placement.
 
 <img src="../../Images/9mm_Stepper_Tower_Flange_Stack.png" alt="Stepper Mount Bearing Stacks" height="400">
 
-Countesink the holes marked in red. Marking them in advanced with a sharpie can help prevent countersinking the wrong holes. You only need to countersink 4 of the 6 plates.
+Countersink the holes marked in red. Marking them in advanced with a sharpie can help prevent countersinking the wrong holes. You only need to countersink 4 of the 6 plates.
 
 <img src="../../Images/Stepper_Mount_Countersink.png" alt="Stepper Mount Countersink Holes" height="400">
 
@@ -64,6 +64,6 @@ ___
 | M5x1 Shim                      | 16       |
 | **M5x0.1 Shim                  | 8        |
 
-*Included in defauly Mercury One.1 BOM
+*Included in default Mercury One.1 BOM
 
 **Optional parts

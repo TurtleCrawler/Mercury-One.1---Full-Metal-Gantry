@@ -2,7 +2,7 @@
 
 ## 6mm Metric Stepper Mount Files
 
-These are the files for 6mm belts using Metric 3mm (.118in)  If your plates are 1/8in thick plates (.125in or 3.175mm) then plaese use the Imperial files.
+These are the files for 6mm belts using Metric 3mm (.118in)  If your plates are 1/8in thick plates (.125in or 3.175mm) then please use the Imperial files.
 
 ## Offset Files
 
@@ -29,11 +29,11 @@ The offset files have an extra 0.2mm added to the bottom faces. This is due to s
 
 ___
 
-Flange stacks are same as the stock Merucry one.1, all shims are M5x1 and placed as shown in the image below.
+Flange stacks are same as the stock Mercury one.1, all shims are M5x1 and placed as shown in the image below.
 
 <img src="../../Images/6mm_Stepper_Mount_Flange_Stack.png" alt="Stepper Mount Bearing Stacks" height="400">
 
-Countesink the holes marked in red. Marking them in advanced with a sharpie can help prevent countersinking the wrong holes. You only need to countersink 4 of the 6 plates.
+Countersink the holes marked in red. Marking them in advanced with a sharpie can help prevent countersinking the wrong holes. You only need to countersink 4 of the 6 plates.
 
 <img src="../../Images/Stepper_Mount_Countersink.png" alt="Stepper Mount Countersink Holes" height="400">
 
@@ -63,6 +63,6 @@ ___
 | M5x1 Shim                      | 22       |
 | **M5x0.1 Shim                  | 8        |
 
-*Included in defauly Mercury One.1 BOM
+*Included in default Mercury One.1 BOM
 
 **Optional parts

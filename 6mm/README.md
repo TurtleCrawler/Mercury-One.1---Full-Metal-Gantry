@@ -67,7 +67,7 @@ ___
 | M5x0.3 Shim                    | 10       |
 | **M5x0.1 Shim                  | 10       |
 
-*Included in defauly Mercury One.1 BOM
+*Included in default Mercury One.1 BOM
 
 **Optional parts
 

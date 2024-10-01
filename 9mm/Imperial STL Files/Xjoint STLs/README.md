@@ -22,14 +22,14 @@ ___
 
 ___
 
-Bearing flange stacka and Idler spacer image
+Bearing flange stacks and Idler spacer image
 
 - Flange stacks use 2x M5x1 shims and 1x M5x0.5mm shim on the plate side, and a single M5x0.5mm shim on the side with the printed spacer.
 - Live idler uses a single M5x0.5mm shim between the bearing and pulley.
 
 <img src="../../Images/9mm_Metal_Xjoints_Flange_Stack.png" alt="Xjoint Bearing Stacks" height="400">
 
-Countesink the holes marked in red. Marking them in advanced with a sharpie can help prevent countersinking the wrong holes.
+Countersink the holes marked in red. Marking them in advanced with a sharpie can help prevent countersinking the wrong holes.
 
 <img src="../../Images/9mm_Xjoint_Countersink_Top.png" alt="Xjoint Countersink Top Holes" height="400">
 
@@ -60,6 +60,6 @@ ___
 | M5x0.5 Shim                    | 4        |
 | **M5x0.1 Shim                  | 4        |
 
-*Included in defauly Mercury One.1 BOM
+*Included in default Mercury One.1 BOM
 
 **Optional parts

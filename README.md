@@ -2,7 +2,7 @@
 
 ___
 
- These are a self source design using laser cut aluminum plates from vendors like sendcutsend. The entire belt path and gantry has been moved lower than the stock printed parts. You cannot mix and match these parts with stock printed stepper mounts, xjoints, or front towers. If you already have my metal stepper mounts, you can still use the same metal plates and upgrade to the full metal gantry.
+ These are a self source design using laser cut aluminum plates from vendors like SendCutSend. The entire belt path and gantry has been moved lower than the stock printed parts. You cannot mix and match these parts with stock printed stepper mounts, xjoints, or front towers. If you already have my metal stepper mounts, you can still use the same metal plates and upgrade to the full metal gantry.
 
 **Assembly steps will be added later, for now you will have to reference the CAD.**
 ___
@@ -106,7 +106,7 @@ ___
 | M5x0.3 Shim                    | 10       |
 | **M5x0.1 Shim                  | 10       |
 
-*Included in defauly Mercury One.1 BOM
+*Included in default Mercury One.1 BOM
 
 **Optional parts
 
@@ -140,6 +140,6 @@ ___
 | M5x0.3 Shim                    | 10       |
 | **M5x0.1 Shim                  | 10       |
 
-*Included in defauly Mercury One.1 BOM
+*Included in default Mercury One.1 BOM
 
 **Optional parts

@@ -19,19 +19,18 @@ ___
 
 ___
 
-Bearing flange stacka and Idler spacer image
+Bearing flange stacks and Idler spacer image
 
 - Flange stacks use 0.5mm on the outside, and a 1.0mm in the center.
 - Gates Idler's use 0.3mm on either side. Other pulleys might also need a 0.5mm on either side.
 
 <img src="../../Images/6mm_Metal_Xjoints_Flange_Stack.png" alt="Xjoint Bearing Stacks" height="400">
 
-Countesink the holes marked in red. Marking them in advanced with a sharpie can help prevent countersinking the wrong holes.
+Countersink the holes marked in red. Marking them in advanced with a sharpie can help prevent countersinking the wrong holes.
 
 <img src="../../Images/6mm_Xjoint_Countersink_Top.png" alt="Xjoint Countersink Top Holes" height="400">
 
 <img src="../../Images/6mm_Xjoint_Countersink_Bottom.png" alt="Xjoint Countersink Bottom Holes" height="400">
-
 
 ___
 
@@ -58,6 +57,6 @@ ___
 | M5x0.3 Shim                    | 4       |
 | **M5x0.1 Shim                  | 4       |
 
-*Included in defauly Mercury One.1 BOM
+*Included in default Mercury One.1 BOM
 
 **Optional parts

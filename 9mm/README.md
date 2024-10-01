@@ -16,7 +16,7 @@ ___
 
 ## 9mm Xjoints
 
-**NOTE:** Make Sure you remove the hub on the pulley, it will interfer with the belt. You will also need to grind the set screws down, or source shorter ones. The set screws are M4 thread.
+**NOTE:** Make Sure you remove the hub on the pulley, it will interfere with the belt. You will also need to grind the set screws down, or source shorter ones. The set screws are M4 thread.
 
 For the flange stack use 2x M5x1 shims and 1x M5x0.5 shim on the side against the plate, and a single M5x1 shim on the side with the printed spacer. You can tighten up the fit with M5x0.1mm shims.
 
@@ -70,7 +70,7 @@ ___
 | M5x0.3 Shim                      | 10       |
 | **M5x0.1 Shim                    | 10       |
 
-*Included in defauly Mercury One.1 BOM
+*Included in default Mercury One.1 BOM
 
 **Optional parts
 
@@ -98,7 +98,3 @@ ___
 | 9mm Xjoint Spacer Top_x2.stl            | 2        |
 | 9mm Front Tower Spacer_x2.stl           | 2        |
 | Front Tower Heatset Spacer_x2.stl       | 2        |
-
-
-
-
